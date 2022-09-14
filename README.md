@@ -1,7 +1,7 @@
 
 ![Profile Views](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=daniel-arnobio-rg&repo=daniel-arnobio-rg&countColor=darkgreen)
 
-### Hi there 👋
+### Olá pessoal! 👋
 
 - 🌱 I’m currently learning Python - SQL - Machine Learning
 - 👯 I’m looking to collaborate on Machine Learning projects
